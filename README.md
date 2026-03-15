@@ -442,3 +442,5 @@ If reused publicly or commercially, the original template licensing terms should
 Designed & Developed by Inteser Hossain.
 Design resources by Colorlib.
 ```
+# Thanks for the support and help to launch the site
+<a href="https://github.com/DeadboyTALHA" target="_blank">Md. Minhazul Mowla</a>
